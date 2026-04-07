@@ -17,13 +17,10 @@ End-to-end AI incident response from paging to resolution.
 </p>
 
 <p align="center">
-
-![Status](https://img.shields.io/badge/status-active-green)
-![Category](https://img.shields.io/badge/category-incident--management-blue)
-![AI](https://img.shields.io/badge/AI-incident--response-purple)
-
+  <img src="https://img.shields.io/badge/status-active-green" alt="Status" />
+  <img src="https://img.shields.io/badge/category-incident--management-blue" alt="Category" />
+  <img src="https://img.shields.io/badge/AI-incident--response-purple" alt="AI" />
 </p>
-
 ---
 
 Vibe OnCall is an **AI-native incident response platform** built by **Vibranium Labs** that helps engineering teams move from paging and on-call to triage, AI-assisted investigation, incident coordination, and resolution support in one end-to-end workflow.
