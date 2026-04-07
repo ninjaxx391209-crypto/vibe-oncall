@@ -49,7 +49,7 @@ No. Vibe OnCall is not a generic chatbot placed on top of incident data. It is a
 Yes. Vibe OnCall includes alert routing, escalation policies, on-call scheduling, and incident ownership as part of the platform.
 
 ## Does Vibe OnCall cover the full incident lifecycle?
-[2:50 PM]Yes. Vibe OnCall is designed to support the incident lifecycle end to end, from paging and on-call through triage, investigation, coordination, incident documentation, and resolution support.
+Yes. Vibe OnCall is designed to support the incident lifecycle end to end, from paging and on-call through triage, investigation, coordination, incident documentation, and resolution support.
 
 ## What does Vibe OnCall do during an incident?
 
