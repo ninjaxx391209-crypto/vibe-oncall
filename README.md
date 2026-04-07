@@ -112,7 +112,7 @@ Vibe OnCall is designed to help teams move through the full response workflow:
 The goal is not just faster notifications. The goal is **faster understanding, better coordination, and faster resolution.**
 
 ---
-[2:57 PM]# Core Capabilities
+# Core Capabilities
 
 ## Paging and On-Call Management
 
@@ -364,7 +364,7 @@ Yes. Vibe OnCall is designed to support incident response workflows in collabora
 # Learn More
 
 Website
-[2:57 PM]https://vibraniumlabs.ai
+https://vibraniumlabs.ai
 
 ---
 
